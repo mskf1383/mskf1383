@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**mskf1383/mskf1383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on an **opensource** social for programmers
+- 🌱 I’m currently learning Python & Django
+- 🤔 I’m looking for help with opensource projects
+- 📫 How to reach me:
 
-Here are some ideas to get you started:
+     :heavy_check_mark: Telegram: @mskf1383
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+     :heavy_check_mark: Gap: @mskf1383
+
+
+<a href="https://github.com/mskf1383">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mskf1383&show_icons=true&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/mskf1383">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mskf1383" />
+</a>
