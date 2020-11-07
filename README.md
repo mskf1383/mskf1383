@@ -10,9 +10,6 @@
      :heavy_check_mark: Gap: @mskf1383
 
 
-<a href="https://github.com/mskf1383">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mskf1383&show_icons=true&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/mskf1383">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mskf1383" />
+<a align="center" href="https://github.com/mskf1383">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mskf1383&layout=compact" />
 </a>
