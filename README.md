@@ -5,7 +5,7 @@
 - 🛰 I’m searching for unknowns!
 - 📫 How to reach me:
 
-     ✔ Email: mskf1383 [at] protonamil [dot] com
+     ✔ Email: mskf1383 [at] protonmail [dot] com
 
      ✔ Telegram: @mskf1383
 
