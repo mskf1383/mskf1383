@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on an **opensource** social for programmers!
-- 🌱 I’m currently learning **Python** & **Django**!
+- 🌱 I’m currently learning **Rust**!
 - 🛰 I’m searching for unknowns!
 - 📫 How to reach me:
 
